@@ -1,0 +1,9 @@
+{
+  "name": "365_ff",
+  "title": "Search in Google Maps",
+  "id": "jid1-BeCZ8nwpEFLvGg",
+  "description": "Add a context menu item to search for selected text at Google Maps.",
+  "author": "leandro@leandro.org",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
